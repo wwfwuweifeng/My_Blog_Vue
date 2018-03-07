@@ -1,21 +1,21 @@
 # my-blog
 
-> A Vue.js project
+> 个人博客平台的前端部分代码，采用vue框架开发
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependencies 
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080 
 npm run dev
 
-# build for production with minification
+# build for production with minification  
 npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+[效果展示地址](http://www.wuweifeng.top:8000/#/)
+>建议使用chrome浏览器进行浏览，移动端没有进行适配
